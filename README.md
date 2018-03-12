@@ -114,3 +114,7 @@ For example
 Is a result that contains 5 matching instances, the running time of the query (after loading data) is 0.00325704 s,  the top 5 matching instances have weight 38.4477 39.0524 39.1529 39.9535 40.3926 respectively. 
 
    
+### Acknowledgement
+
+Thanks to Jiongqian Albert Liang for providing bfm.cc, bfs.cc, dfm.cc, dfs.cc, dijkstra.cc.
+
