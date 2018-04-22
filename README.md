@@ -1,3 +1,4 @@
+
 # Any-k-KARPET 
 
   
@@ -6,6 +7,7 @@ Many problems in areas as diverse as recommendation systems, social network anal
 We therefore propose the novel notion of an any-k ranking algorithm: for a given time budget, return as many of the top-ranked results as possible. Then, given additional time, produce the next lower-ranked results quickly as well. It can be stopped anytime, but may have to continue until all results are returned. This project focuses on acyclic patterns over arbitrary labeled graphs. We are interested in practical algorithms that effectively exploit (1) properties of heterogeneous networks, in particular selective constraints on labels, and (2) that the users often explore only a fraction of the top-ranked results. Our solution, KARPET, carefully integrates aggressive pruning that leverages the acyclic nature of the query, and incremental guided search.  
 
   
+For more information, please read our paper at https://arxiv.org/abs/1802.06060.
 
   
 
