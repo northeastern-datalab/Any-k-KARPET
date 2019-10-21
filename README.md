@@ -44,9 +44,7 @@ Run the following command in the same directory:
  
 
 (1) datafile. The format of the datafile follows the description at:  
-
-http://web.cse.ohio-state.edu/~liang.420/StackOverFlow.html 
-
+http://jiongqianliang.com/PRO-HEAPS/
  
 
 (2) queryfile. An example query file is 9 lines each file for a binary tree query. Below is an example queryfile explained: 
